@@ -25,8 +25,8 @@
 
 ||PyTorch版本|大小|下载地址|
 |-|-|-|-|
-|CPU推理版本|2.2.1|989 MB|[OneDrive](https://1drv.ms/u/s!ApF_M_PJgMjabK4tbMUTw5nFt-g?e=C3O0JN)|
-|GPU推理版本|2.2.1+cu118|2.18 GB|[OneDrive](https://1drv.ms/u/s!ApF_M_PJgMjabWCA4_s3fwxwi7M?e=nObvOo)|
+|CPU推理版本|2.2.1|989 MB|[OneDrive](https://1drv.ms/u/s!ApF_M_PJgMjabK4tbMUTw5nFt-g?e=C3O0JN) \| [百度网盘](https://pan.baidu.com/s/1sKlushysdxq1ce-IBHcJaw?pwd=nqwm)|
+|GPU推理版本|2.2.1+cu118|2.18 GB|[OneDrive](https://1drv.ms/u/s!ApF_M_PJgMjabWCA4_s3fwxwi7M?e=nObvOo) \| [百度网盘](https://pan.baidu.com/s/1pR1gNF1TmIl_5kASQzEnJQ?pwd=nbqa)|
 ### 自行部署
 #### 克隆
 ```shell
